@@ -1,0 +1,2914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spectra Plugin v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-11 14:52+0100\n"
+"PO-Revision-Date: 2015-02-11 13:58:26+0000\n"
+"Last-Translator: Rascals Themes <office@rascals.eu>\n"
+"Language-Team: Rascals Themes <support@rascals.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: includes/metaboxes/classes/class-r-metabox.php:915
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Insert Link"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1011
+#: includes/metaboxes/classes/class-r-metabox.php:1643
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Search"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1033
+#: includes/metaboxes/classes/class-r-metabox.php:1356
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Add File"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1057
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Currently you don't have images, you can add them by clicking on the button below."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1140
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "You are using an image only for a preview. Select new image and save settings."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1142
+#: includes/metaboxes/classes/class-r-metabox.php:1354
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "The link is incorrect or the image does not exist."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1147
+#: includes/metaboxes/classes/class-r-metabox.php:1301
+#: includes/metaboxes/classes/class-r-metabox.php:1357
+#: includes/metaboxes/classes/class-r-metabox.php:1437
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Remove"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1299
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Generate Background"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1318
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Background Type"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1325
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Select background type."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1332
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Color"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1333
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Transparent: "
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1337
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Select background color."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1347
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "File URL "
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1359
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Enter image URL for your background."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1362
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Position"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1375
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "The first value is the horizontal position and the second value is the vertical. The top left corner is 0 0. Units can be pixels (0px 0px) or any other CSS units. If you specify only one value, the other value will be 50%. You can mix % and positions"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1379
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Custom"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1384
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Repeat"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1391
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "The background-repeat property sets if/how a background image will be repeated."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1395
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Attachment"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1400
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "The background-attachment property sets whether a background image is fixed or scrolls with the rest of the page."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1435
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Generate Iframe"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1439
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Error: Content does not contain the iframe."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1455
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Iframe Code"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1458
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Paste Iframe code here.."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1513
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Add Images"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1517
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Currently slider does not have images, you can add them by clicking on button below."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1559
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Error: Image file doesn't exists."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1599
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Error: Audio file doesn't exists."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1610
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Error: AJAX Transport"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1618
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Add Custom Track"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1621
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Remove Selected"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1646
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Select All:"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:1656
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Load Next 30 Items"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2001
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Error: File does not exist!"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2028
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "File name:"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2029
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "File type:"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2030
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Upload date:"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2033
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Dimensions:"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2035
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Image URL:"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2036
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "[IMAGE LINK]"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2050
+#: includes/metaboxes/classes/class-r-metabox.php:2098
+#: includes/metaboxes/classes/class-r-metabox.php:2206
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Title"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2052
+#: includes/metaboxes/classes/class-r-metabox.php:2100
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Title for the image."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2055
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Subtitle"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2057
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Subtitle for the image."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2060
+#: includes/metaboxes/classes/class-r-metabox.php:2108
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Image Crop"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2082
+#: includes/metaboxes/classes/class-r-metabox.php:2130
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Cropping Alignment/Positioning for the image."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2103
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Description"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2105
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Short description of the image."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2134
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Image Type"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2153
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Select image type."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2159
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Lightbox Link"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2161
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Paste the full URL (include http://) of your image you would like to use for jQuery lightbox pop-up effect."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2167
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Video Code"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2169
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Paste video embed code (iframe)."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2175
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Soundcloud Code"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2177
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Paste Soundcloud embed code (iframe)."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2184
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Custom Link"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2186
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Paste the full URL (include http://)."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2204
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Custom title"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2208
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Title for the audio."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2211
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Artists"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2213
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Track artists."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2217
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "URL"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2219
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Paste here link to the MP3 file or link to Soundcloud track, list, favorite tracks."
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2223
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Track Links"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2225
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid ""
+"Add player links. Add player links. Button example:\n"
+"&lt;a href=&quot;LINK_HERE&quot;&gt;Buy&lt;/a&gt;\n"
+"&lt;a href=&quot;LINK_HERE&quot;&gt;Soundcloud&lt;/a&gt;"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2232
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Track Cover Image URL"
+msgstr ""
+
+#: includes/metaboxes/classes/class-r-metabox.php:2234
+#@ spectra_plugin
+msgctxt "Metabox Class"
+msgid "Paste cover image URL."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:107
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Intro Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:138
+#: includes/metaboxes/metaboxes.php:1123
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "None"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:139
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Page Title"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:140
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Content"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:141
+#: includes/metaboxes/metaboxes.php:152
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Full Screen Image"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:142
+#: includes/metaboxes/metaboxes.php:153
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Full Screen Image with Content"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:143
+#: includes/metaboxes/metaboxes.php:170
+#: includes/metaboxes/metaboxes.php:502
+#: includes/metaboxes/metaboxes.php:788
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Image"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:144
+#: includes/metaboxes/metaboxes.php:154
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Full Screen Slider"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:145
+#: includes/metaboxes/metaboxes.php:279
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Slider"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:146
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "YouTube Background"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:147
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Google Map"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:161
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Intro Type"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:167
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select intro."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:180
+#: includes/metaboxes/metaboxes.php:1208
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add Image"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:181
+#: includes/metaboxes/metaboxes.php:1209
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Currently you don't have image, you can add one by clicking on the button below."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:182
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Intro image."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:187
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Height"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:192
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "px"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:194
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Intro section min. height."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:199
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Overlay"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:204
+#: includes/metaboxes/metaboxes.php:219
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Disabled"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:205
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Opacity Black"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:206
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Animated Noise"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:207
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Dots"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:209
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select overlay type."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:214
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Image Effect"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:220
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Zoom"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:221
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Parallax"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:223
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select Image effect."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:228
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Animated"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:232
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Enable animated effects."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:237
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Zoom Effect"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:241
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "If this opion is on, you should see zoom effect on intro section."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:246
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Scroll Button"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:250
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "If this opion is on, you should see scroll_button on intro section."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:255
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Intro Title"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:261
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add intro title."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:266
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Intro Subtitle"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:272
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add intro subtitle."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:286
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select your slider; images min width must be 1920. If there are no sliders available, then you can add a slider and images using Slider custom posts menu on the left."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:291
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Background"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:297
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Generate intro background."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:302
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Intro Content"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:311
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add text to the intro section below the title."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:316
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Address"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:322
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add address to Google Map."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:329
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "YouTube ID"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:337
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add YouTube movie ID."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:365
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Layout Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:390
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Layout"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:400
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Choose the page layout."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:403
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Custom Sidebar"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:409
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:411
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select custom or primary sidebar."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:430
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Page Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:451
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Page Subtitle"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:457
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add subtitle below the main page heading."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:475
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Post Format Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:496
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Post Format"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:501
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Standard"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:503
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Gallery"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:504
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Video"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:505
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Quote"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:506
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Link"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:507
+#: includes/metaboxes/metaboxes.php:790
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Audio"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:508
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Audio - Single Track"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:509
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Audio - Soundcloud"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:512
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select post format type."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:517
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Gallery Slider"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:522
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select slider; If there are no sliders available, then you can add a slider and images using Slider custom posts menu on the left. Select your slider. If there are no sliders available, then you can add a slider and images using Slider custom posts menu on the left. NOTE: Only working with GALLERY post format."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:529
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Video YouTube"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:537
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add YouTube movie ID. NOTE: Only working with VIDEO post format."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:544
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Video Vimeo"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:552
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add Vimeo movie ID. NOTE: Only working with VIDEO post format."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:560
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Soundcloud Audio"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:566
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Paste iframe code from soundcloud track. NOTE: Only working with AUDIO post format."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:573
+#: includes/metaboxes/metaboxes.php:844
+#: includes/metaboxes/metaboxes.php:908
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Audio Tracks"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:578
+#: includes/metaboxes/metaboxes.php:851
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select your tracks; If there are no tracks available, then you can add a audio tracks using TRACKS custom posts menu on the left."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:599
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Slider Images"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:624
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Currently you don't have any images, you can add them by clicking on the button below."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:625
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add Images"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:626
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add images to slider."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:641
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Slider Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:662
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Navigation"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:666
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "If this opion is on, then you should see the slider navigation."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:669
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Pagination"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:673
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "If this opion is on, then you should see the slider pagination."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:676
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:683
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Slider animation speed."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:686
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Pause Time"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:693
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Determines how long each slide will be shown.  NOTE: Value \"0\" disable slider timer."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:710
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Portfolio Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:731
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Portfolio Limit"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:736
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "items"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:738
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Number of portfolio items limit."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:741
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Show Categories Filter"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:745
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "If this option is disabled, then categories filter navigation disappears."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:762
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Thumbnails Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:783
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Thumbnails Type"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:789
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Project link"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:791
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Image lightbox"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:792
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Video lightbox"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:793
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Soundcloud lightbox"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:794
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Custom link"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:797
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select thumbnail type."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:800
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Iframe Code"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:806
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Generate iframe code."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:809
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Lightbox Image"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:814
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Paste the full URL (include http://) of your image. If this box is empty, then original image will be displayed in lightbox window."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:817
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Custom Link URL"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:822
+#: includes/metaboxes/metaboxes.php:1232
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Paste the full URL (include http://) of your link or click and select it from your site."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:825
+#: includes/metaboxes/metaboxes.php:1235
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Link Target"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:831
+#: includes/metaboxes/metaboxes.php:1239
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Open link in new window."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:834
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Lightbox Group"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:839
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Enter the group name if you want to change the lightbox window images. Navigation arrows will be shown in a group of portfolios."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:854
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Thumbnail Subtitle"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:860
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add thumbnail subtitle."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:863
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Badge"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:868
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "New"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:869
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Free"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:872
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add a badge to your portfolio item."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:875
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Badge Text"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:879
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add badge text."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:884
+#@ default
+msgctxt "Admin Panel"
+msgid "Color"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:933
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Currently you don't have any audio tracks, you can add them by clicking on the button below."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:934
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add Tracks"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:935
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Add audio tracks."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:952
+#: includes/metaboxes/metaboxes.php:1032
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Events Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:974
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Events Type"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:979
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Future events"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:980
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Events archive"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:983
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Choose the events type."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:986
+#: includes/metaboxes/metaboxes.php:1054
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Events Limit"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:993
+#: includes/metaboxes/metaboxes.php:1061
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Number of events limit."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:996
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Events Layout"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1001
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "List"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1002
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Bricks"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1003
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Mixed (List+Bricks)"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1006
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select Events Layout."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1009
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Show Heading"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1013
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Show headings \"More Events\" between list and bricks events."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1078
+#: includes/metaboxes/metaboxes.php:1100
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Event Date"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1106
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Enter the event date; eg 2010-09-11"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1109
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Event Time"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1115
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Enter the event time; eg 21:00"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1118
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Repeat"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1124
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Weekly"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1128
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Repeat event."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1131
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Every"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1136
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "week(s)"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1140
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Repeat event every week(s)."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1143
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Day(s)"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1150
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Monday"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1151
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Tuesday"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1152
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Wednesday"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1153
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Thursday"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1154
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Friday"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1155
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Saturday"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1156
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Sunday"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1160
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Please use the CTRL key (PC) or COMMAND key (Mac) to select multiple items."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1177
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Event Options"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1198
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Big Event Image"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1210
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Big event image for events list, 1920x573px."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1213
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Show Countdown Header"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1217
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Show countdown header instead default header."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1220
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Event Address"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1226
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Event location address."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1229
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Ticket URL"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1256
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Footer Modules"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1287
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "NOTE: Newsletter is not displayed because MAILCHIMP plugin is not installed or activated."
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1293
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Foter Modules"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1299
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "MailChimp Newsletter"
+msgstr ""
+
+#: includes/metaboxes/metaboxes.php:1302
+#@ spectra_plugin
+msgctxt "Metaboxes"
+msgid "Select footer module."
+msgstr ""
+
+#: includes/post-types/classes/class-r-custom-posts.php:78
+#: includes/post-types/classes/class-r-custom-posts.php:140
+#@ spectra_plugin
+msgctxt "Custom Post Class"
+msgid "Sort Items"
+msgstr ""
+
+#: includes/post-types/classes/class-r-custom-posts.php:148
+#@ spectra_plugin
+msgctxt "Custom Post Class"
+msgid "Edit This Post"
+msgstr ""
+
+#: includes/post-types/post-types.php:50
+#: includes/post-types/post-types.php:51
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-types/post-types.php:52
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types/post-types.php:53
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:54
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:55
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:56
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "View Portfolio Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:57
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Search Items"
+msgstr ""
+
+#: includes/post-types/post-types.php:58
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "No portfolio items found"
+msgstr ""
+
+#: includes/post-types/post-types.php:59
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: includes/post-types/post-types.php:82
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/post-types/post-types.php:83
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "category"
+msgstr ""
+
+#: includes/post-types/post-types.php:105
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Title"
+msgstr ""
+
+#: includes/post-types/post-types.php:106
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Portfolio Preview"
+msgstr ""
+
+#: includes/post-types/post-types.php:107
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Categories"
+msgstr ""
+
+#: includes/post-types/post-types.php:108
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "Date"
+msgstr ""
+
+#: includes/post-types/post-types.php:157
+#@ spectra_plugin
+msgctxt "Post type - Portfolio"
+msgid "All Categories"
+msgstr ""
+
+#: includes/post-types/post-types.php:210
+#: includes/post-types/post-types.php:211
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Events"
+msgstr ""
+
+#: includes/post-types/post-types.php:212
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types/post-types.php:213
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Add New Event"
+msgstr ""
+
+#: includes/post-types/post-types.php:214
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Edit Event"
+msgstr ""
+
+#: includes/post-types/post-types.php:215
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "New Event"
+msgstr ""
+
+#: includes/post-types/post-types.php:216
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "View Event"
+msgstr ""
+
+#: includes/post-types/post-types.php:217
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Search Items"
+msgstr ""
+
+#: includes/post-types/post-types.php:218
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "No slider events found"
+msgstr ""
+
+#: includes/post-types/post-types.php:219
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "No events found in Trash"
+msgstr ""
+
+#: includes/post-types/post-types.php:242
+#: includes/post-types/post-types.php:243
+#: includes/post-types/post-types.php:400
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Event Type"
+msgstr ""
+
+#: includes/post-types/post-types.php:259
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Events Categories"
+msgstr ""
+
+#: includes/post-types/post-types.php:260
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Event Category"
+msgstr ""
+
+#: includes/post-types/post-types.php:350
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Start Today"
+msgstr ""
+
+#: includes/post-types/post-types.php:353
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Continued"
+msgstr ""
+
+#: includes/post-types/post-types.php:396
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Event Title"
+msgstr ""
+
+#: includes/post-types/post-types.php:397
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Event Date"
+msgstr ""
+
+#: includes/post-types/post-types.php:398
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Days"
+msgstr ""
+
+#: includes/post-types/post-types.php:399
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Days Left"
+msgstr ""
+
+#: includes/post-types/post-types.php:401
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Event Repeat"
+msgstr ""
+
+#: includes/post-types/post-types.php:402
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Categories"
+msgstr ""
+
+#: includes/post-types/post-types.php:403
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "Image Preview"
+msgstr ""
+
+#: includes/post-types/post-types.php:644
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "All Types"
+msgstr ""
+
+#: includes/post-types/post-types.php:682
+#@ spectra_plugin
+msgctxt "Post type - Events"
+msgid "All Categories"
+msgstr ""
+
+#: includes/post-types/post-types.php:733
+#: includes/post-types/post-types.php:734
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Slider"
+msgstr ""
+
+#: includes/post-types/post-types.php:735
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types/post-types.php:736
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Add New Slider Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:737
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Edit Slider Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:738
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "New Slider Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:739
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "View Slider Item"
+msgstr ""
+
+#: includes/post-types/post-types.php:740
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Search Items"
+msgstr ""
+
+#: includes/post-types/post-types.php:741
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "No slider items found"
+msgstr ""
+
+#: includes/post-types/post-types.php:742
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "No slider items found in Trash"
+msgstr ""
+
+#: includes/post-types/post-types.php:779
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Title"
+msgstr ""
+
+#: includes/post-types/post-types.php:780
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Slider ID"
+msgstr ""
+
+#: includes/post-types/post-types.php:781
+#@ spectra_plugin
+msgctxt "Post type - Slider"
+msgid "Date"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:51
+#: includes/post-types/scamp-player.php:52
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Tracks"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:53
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:54
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Add New Tracks"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:55
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Edit Tracks"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:56
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "New Tracks"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:57
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "View Tracks"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:58
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Search Tracks"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:59
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "No tracks found"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:60
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "No tracks found in Trash"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:97
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Title"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:98
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Tracks ID"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:99
+#@ spectra_plugin
+msgctxt "Custom Posts - Tracks"
+msgid "Date"
+msgstr ""
+
+#: includes/post-types/scamp-player.php:261
+#@ spectra_plugin
+msgid "Custom Title"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-helpers.php:94
+#: includes/widgets/widget-twitter.php:81
+#@ spectra_plugin
+#@ Twitter Widget
+msgid "ERROR: Missing API Key."
+msgstr ""
+
+#: includes/shortcodes/shortcodes-helpers.php:95
+#: includes/widgets/widget-twitter.php:82
+#@ spectra_plugin
+#@ Twitter Widget
+msgid "ERROR: Missing API Secret."
+msgstr ""
+
+#: includes/shortcodes/shortcodes-helpers.php:96
+#: includes/widgets/widget-twitter.php:83
+#@ spectra_plugin
+#@ Twitter Widget
+msgid "ERROR: Missing Twitter Feed User Name."
+msgstr ""
+
+#: includes/shortcodes/shortcodes-helpers.php:197
+#: includes/widgets/widget-twitter.php:191
+#@ spectra_plugin
+#@ Twitter Widget
+msgid "ago"
+msgstr ""
+
+#: includes/shortcodes/shortcodes-helpers.php:208
+#: includes/widgets/widget-twitter.php:211
+#@ spectra_plugin
+#@ Twitter Widget
+msgid "ERROR: Username not exists or Twitter API error."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:362
+#: includes/shortcodes/shortcodes.php:378
+#: includes/shortcodes/shortcodes.php:394
+#: includes/shortcodes/shortcodes.php:410
+#@ spectra_plugin
+msgid "Step Image"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:474
+#: includes/shortcodes/shortcodes.php:546
+#: includes/shortcodes/shortcodes.php:612
+#@ spectra_plugin
+msgid "Cover Image"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:486
+#: includes/shortcodes/shortcodes.php:559
+#@ spectra_plugin
+msgid "PLAY LIST"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:690
+#@ spectra_plugin
+msgid "Slider error: Slider has no pictures or doesn't exists."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:743
+#@ spectra_plugin
+msgid "Slider Image"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1097
+#@ spectra_plugin
+msgid "Days"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1098
+#@ spectra_plugin
+msgid "Hours"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1099
+#@ spectra_plugin
+msgid "Minutes"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1100
+#@ spectra_plugin
+msgid "Seconds"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1156
+#@ spectra_plugin
+msgid "Filter"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1157
+#@ spectra_plugin
+msgid "All"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1346
+#@ spectra_plugin
+msgid "Porfolio thumbnail"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1352
+#@ spectra_plugin
+msgid "NEW"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1356
+#@ spectra_plugin
+msgid "FREE"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1410
+#@ spectra_plugin
+msgid "Please enable your JavaScript in your browser, to view our location."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1554
+#@ spectra_plugin
+msgid "More events"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1650
+#@ spectra_plugin
+msgid "Date"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1651
+#@ spectra_plugin
+msgid "Event"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1675
+#@ spectra_plugin
+msgid "Buy Tickets"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1768
+#@ spectra_plugin
+msgid "Read more"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1777
+#@ spectra_plugin
+msgid "View More Posts"
+msgstr ""
+
+#: includes/shortcodes/shortcodes_manager/shortcodes_manager.php:74
+#@ spectra_plugin
+msgid "Shortcodes Manager"
+msgstr ""
+
+#: includes/shortcodes/shortcodes_manager/shortcodes_manager_win.php:16
+#@ spectra_plugin
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: includes/shortcodes/shortcodes_manager/shortcodes_manager_win.php:160
+#@ spectra_plugin
+msgid "Cancel"
+msgstr ""
+
+#: includes/shortcodes/shortcodes_manager/shortcodes_manager_win.php:163
+#@ spectra_plugin
+msgid "Insert"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:89
+#@ spectra_plugin
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:93
+#: includes/shortcodes/vc-extend.php:141
+#: includes/shortcodes/vc-extend.php:172
+#: includes/shortcodes/vc-extend.php:222
+#: includes/shortcodes/vc-extend.php:296
+#: includes/shortcodes/vc-extend.php:368
+#: includes/shortcodes/vc-extend.php:439
+#: includes/shortcodes/vc-extend.php:527
+#: includes/shortcodes/vc-extend.php:607
+#: includes/shortcodes/vc-extend.php:640
+#: includes/shortcodes/vc-extend.php:657
+#: includes/shortcodes/vc-extend.php:709
+#: includes/shortcodes/vc-extend.php:733
+#: includes/shortcodes/vc-extend.php:836
+#: includes/shortcodes/vc-extend.php:875
+#: includes/shortcodes/vc-extend.php:989
+#: includes/shortcodes/vc-extend.php:1094
+#: includes/shortcodes/vc-extend.php:1161
+#: includes/shortcodes/vc-extend.php:1238
+#: includes/shortcodes/vc-extend.php:1315
+#@ spectra_plugin
+msgid "by Rascals"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:99
+#: includes/shortcodes/vc-extend.php:147
+#: includes/shortcodes/vc-extend.php:738
+#: includes/shortcodes/vc-extend.php:994
+#: includes/shortcodes/vc-extend.php:1099
+#@ spectra_plugin
+msgid "Title"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:107
+#@ spectra_plugin
+msgid "Limit"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:115
+#@ spectra_plugin
+msgid "Button Link"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:118
+#@ spectra_plugin
+msgid "URL to blog page."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:137
+#@ spectra_plugin
+msgid "Event Countdown"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:142
+#: includes/shortcodes/vc-extend.php:173
+#: includes/shortcodes/vc-extend.php:223
+#@ spectra_plugin
+msgid "Working only with \"Full Width Section\" ROW."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:168
+#@ spectra_plugin
+msgid "Portfolio"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:178
+#@ spectra_plugin
+msgid "Order By"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:182
+#@ spectra_plugin
+msgid "Select menu order."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:187
+#@ spectra_plugin
+msgid "Display Filter"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:191
+#@ spectra_plugin
+msgid "Display portfolio filter."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:196
+#@ spectra_plugin
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:200
+#@ spectra_plugin
+msgid "Number of portfolio items. Value '-1' display all items."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:218
+#: includes/shortcodes/vc-extend.php:270
+#: includes/shortcodes/vc-extend.php:311
+#@ spectra_plugin
+msgid "Events"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:228
+#: includes/shortcodes/vc-extend.php:302
+#@ spectra_plugin
+msgid "Events Type"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:232
+#: includes/shortcodes/vc-extend.php:306
+#@ spectra_plugin
+msgid "Select events type."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:237
+#@ spectra_plugin
+msgid "Events Layout"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:245
+#@ spectra_plugin
+msgid "Select events layout."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:250
+#@ spectra_plugin
+msgid "Events Heading"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:254
+#@ spectra_plugin
+msgid "Display events heading."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:260
+#@ spectra_plugin
+msgid "List Events Number"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:264
+#@ spectra_plugin
+msgid "Number of list events."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:274
+#: includes/shortcodes/vc-extend.php:315
+#@ spectra_plugin
+msgid "Number of events items. Value '-1' display all items."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:292
+#@ spectra_plugin
+msgid "Events Table"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:364
+#@ spectra_plugin
+msgid "Single Track"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:373
+#@ spectra_plugin
+msgid "Track"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:377
+#: includes/shortcodes/vc-extend.php:448
+#: includes/shortcodes/vc-extend.php:536
+#@ spectra_plugin
+msgid "Select track ID."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:382
+#: includes/shortcodes/vc-extend.php:541
+#@ spectra_plugin
+msgid "Style"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:386
+#: includes/shortcodes/vc-extend.php:545
+#@ spectra_plugin
+msgid "Select player style."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:435
+#@ spectra_plugin
+msgid "Tracklist Grid"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:444
+#: includes/shortcodes/vc-extend.php:523
+#: includes/shortcodes/vc-extend.php:532
+#@ spectra_plugin
+msgid "Tracklist"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:453
+#@ spectra_plugin
+msgid "Tracks Per Row"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:461
+#@ spectra_plugin
+msgid "Tracklist Details"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:465
+#@ spectra_plugin
+msgid "Display tracklist titles and artists."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:470
+#: includes/shortcodes/vc-extend.php:550
+#@ spectra_plugin
+msgid "Tracklist Button"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:474
+#: includes/shortcodes/vc-extend.php:554
+#@ spectra_plugin
+msgid "Display tracklist button."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:603
+#@ spectra_plugin
+msgid "Slider"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:612
+#@ spectra_plugin
+msgid "Select Slider ID"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:615
+#@ spectra_plugin
+msgid "Select slider ID."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:633
+#@ spectra_plugin
+msgid "Details List"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:651
+#@ spectra_plugin
+msgid "Detail"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:662
+#@ spectra_plugin
+msgid "Label"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:666
+#@ spectra_plugin
+msgid "Type detail label."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:671
+#@ spectra_plugin
+msgid "Value"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:675
+#@ spectra_plugin
+msgid "Type detail value."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:702
+#@ spectra_plugin
+msgid "Buttons"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:727
+#@ spectra_plugin
+msgid "Button"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:742
+#@ spectra_plugin
+msgid "Button title."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:747
+#: includes/shortcodes/vc-extend.php:1024
+#@ spectra_plugin
+msgid "Link"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:751
+#@ spectra_plugin
+msgid "Button LINK."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:756
+#@ spectra_plugin
+msgid "Size"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:760
+#@ spectra_plugin
+msgid "Select button size."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:765
+#: includes/shortcodes/vc-extend.php:1108
+#@ spectra_plugin
+msgid "Icon"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:769
+#: includes/shortcodes/vc-extend.php:1112
+#@ spectra_plugin
+msgid "Select icon."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:774
+#@ spectra_plugin
+msgid "Icon Size"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:778
+#@ spectra_plugin
+msgid "icon size (px)."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:783
+#@ spectra_plugin
+msgid "New Window"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:787
+#@ spectra_plugin
+msgid "Open link in new window/tab."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:792
+#@ spectra_plugin
+msgid "Background Color"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:796
+#@ spectra_plugin
+msgid "Background Color."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:801
+#@ spectra_plugin
+msgid "Text Color"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:805
+#@ spectra_plugin
+msgid "Text Color."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:832
+#@ spectra_plugin
+msgid "Stats List"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:842
+#@ spectra_plugin
+msgid "Timer"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:845
+#@ spectra_plugin
+msgid "Timer in ms."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:850
+#@ spectra_plugin
+msgid "Stats"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:853
+#@ spectra_plugin
+msgid "Enter stats, stat numeric value|stat name. NOTE: The minimum number of stats is 6."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:871
+#@ spectra_plugin
+msgid "Process Steps"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:880
+#@ spectra_plugin
+msgid "Image 01"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:886
+#@ spectra_plugin
+msgid "Link 01"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:893
+#@ spectra_plugin
+msgid "Link Target 01"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:903
+#@ spectra_plugin
+msgid "Image 02"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:909
+#@ spectra_plugin
+msgid "Link 02"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:916
+#@ spectra_plugin
+msgid "Link Target 02"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:926
+#@ spectra_plugin
+msgid "Image 03"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:932
+#@ spectra_plugin
+msgid "Link 03"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:939
+#@ spectra_plugin
+msgid "Link Target 03"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:949
+#@ spectra_plugin
+msgid "Image 04"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:955
+#@ spectra_plugin
+msgid "Link 04"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:962
+#@ spectra_plugin
+msgid "Link Target 04"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:985
+#@ spectra_plugin
+msgid "Pricing Column"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:996
+#@ spectra_plugin
+msgid "Basic Plan"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1003
+#@ spectra_plugin
+msgid "Price"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1010
+#@ spectra_plugin
+msgid "Currency"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1017
+#@ spectra_plugin
+msgid "Price Period"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1031
+#@ spectra_plugin
+msgid "Target"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1044
+#@ spectra_plugin
+msgid "Button Text"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1051
+#@ spectra_plugin
+msgid "Important"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1062
+#: includes/shortcodes/vc-extend.php:1129
+#@ spectra_plugin
+msgid "Content"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1090
+#@ spectra_plugin
+msgid "Icon Column"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1101
+#@ spectra_plugin
+msgid "Total Responsiveness"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1117
+#@ spectra_plugin
+msgid "Icon Place"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1157
+#@ spectra_plugin
+msgid "Tweets List"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1166
+#: includes/shortcodes/vc-extend.php:1243
+#@ spectra_plugin
+msgid "Username"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1175
+#: includes/shortcodes/vc-extend.php:1252
+#@ spectra_plugin
+msgid "API Key"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1184
+#: includes/shortcodes/vc-extend.php:1261
+#@ spectra_plugin
+msgid "API Secret"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1193
+#: includes/shortcodes/vc-extend.php:1270
+#@ spectra_plugin
+msgid "Replies"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1204
+#: includes/shortcodes/vc-extend.php:1281
+#@ spectra_plugin
+msgid "Number of Tweets"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1234
+#@ spectra_plugin
+msgid "Tweets Slider"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1311
+#@ spectra_plugin
+msgid "Google Maps"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1320
+#@ spectra_plugin
+msgid "Height"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1322
+#@ spectra_plugin
+msgid "400"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1329
+#@ spectra_plugin
+msgid "Address"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1331
+#@ spectra_plugin
+msgid "Level 13, 2 Elizabeth St, Melbourne Victoria 3000 Australia"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1338
+#@ spectra_plugin
+msgid "Depth"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1340
+#@ spectra_plugin
+msgid "15"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1347
+#@ spectra_plugin
+msgid "Zoom Control"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1358
+#@ spectra_plugin
+msgid "Scroll Whell"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1381
+#@ spectra_plugin
+msgid "Type"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1393
+#@ spectra_plugin
+msgid "Parallax Background"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1404
+#@ spectra_plugin
+msgid "Section Overlay"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1417
+#@ spectra_plugin
+msgid "Section Sign"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1424
+#@ spectra_plugin
+msgid "Display small sign on top of the section."
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1429
+#@ spectra_plugin
+msgid "Sign Icon"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1437
+#@ spectra_plugin
+msgid "Sign Background Color"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1445
+#@ spectra_plugin
+msgid "Anchor ID"
+msgstr ""
+
+#: includes/shortcodes/vc-extend.php:1448
+#@ spectra_plugin
+msgid "Enter anchor name. No special characters. No spaces."
+msgstr ""
+
+#: includes/widgets/widget-events.php:20
+#@ spectra_plugin
+msgctxt "Events Widget"
+msgid "Display events"
+msgstr ""
+
+#: includes/widgets/widget-events.php:32
+#: includes/widgets/widget-events.php:68
+#@ spectra_plugin
+msgctxt "Events Widget"
+msgid "Events"
+msgstr ""
+
+#: includes/widgets/widget-events.php:72
+#@ spectra_plugin
+msgctxt "Events Widget"
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-events.php:88
+#@ spectra_plugin
+msgctxt "Events Widget"
+msgid "Type:"
+msgstr ""
+
+#: includes/widgets/widget-events.php:106
+#@ spectra_plugin
+msgctxt "Events Widget"
+msgid "Limit:"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:20
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Display music tracks"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:32
+#: includes/widgets/widget-tracks.php:81
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Tracks"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:85
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:110
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Select Tracks:"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:123
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "There are no tracks available."
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:142
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Type:"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:165
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Display list button"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:187
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Only for Tracklist Grid:"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:189
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Tracks Per Row:"
+msgstr ""
+
+#: includes/widgets/widget-tracks.php:212
+#@ spectra_plugin
+msgctxt "Tracks Widget"
+msgid "Display track details"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:20
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "Display latest tweets from twitter"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:31
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "Twitter"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:147
+#@ Twitter Widget
+msgid "ERROR: User access verification."
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:233
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "Tweets"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:236
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:240
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:244
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "API key:"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:248
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "API secret:"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:252
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:254
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "20 is the maximum"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:260
+#@ spectra_plugin
+msgctxt "Twitter Widget"
+msgid "Display replies"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: spectra_plugin.php:0
+#@ spectra_plugin
+msgid "Spectra Plugin"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: spectra_plugin.php:0
+#@ spectra_plugin
+msgid "http://rascals.eu"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: spectra_plugin.php:0
+#@ spectra_plugin
+msgid "This is a complimentary plugin for the \"Spectra\" WordPress theme. You can use it to create, manage and update Custom Posts Types. It also has some useful shortcodes available to use."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: spectra_plugin.php:0
+#@ spectra_plugin
+msgid "Mariusz Rek - Rascals Themes"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: spectra_plugin.php:0
+#@ spectra_plugin
+msgid "1.0.0"
+msgstr ""
+

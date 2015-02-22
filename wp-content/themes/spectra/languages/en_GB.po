@@ -1,0 +1,1583 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spectra WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-11 14:51+0100\n"
+"PO-Revision-Date: 2015-02-11 14:52+0100\n"
+"Last-Translator: Rascals Themes <office@rascals.eu>\n"
+"Language-Team: Rascals Themes <support@rascals.eu>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid "Error 404"
+msgstr ""
+
+#: ../404.php:26
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:27
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:144
+msgctxt "Admin Panel Class"
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:452
+msgctxt "Admin Panel Class"
+msgid "Save Settings"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1076
+msgctxt "Admin Panel Class"
+msgid "Insert Link"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1172
+msgctxt "Admin Panel Class"
+msgid "Search"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1198
+#: ../admin/classes/class-r-panel.php:1518
+msgctxt "Admin Panel Class"
+msgid "Add File"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1216
+msgctxt "Admin Panel Class"
+msgid ""
+"Currently you don't have images, you can add them by clicking on the button "
+"below."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1268
+msgctxt "Admin Panel Class"
+msgid ""
+"You are using an image only for a preview. Select new image and save "
+"settings."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1270
+#: ../admin/classes/class-r-panel.php:1516
+msgctxt "Admin Panel Class"
+msgid "The link is incorrect or the image does not exist."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1275
+#: ../admin/classes/class-r-panel.php:1463
+#: ../admin/classes/class-r-panel.php:1519
+#: ../admin/classes/class-r-panel.php:1603
+msgctxt "Admin Panel Class"
+msgid "Remove"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1321
+msgctxt "Admin Panel Class"
+msgid "Add New Item"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1461
+msgctxt "Admin Panel Class"
+msgid "Generate Background"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1480
+msgctxt "Admin Panel Class"
+msgid "Background Type"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1487
+msgctxt "Admin Panel Class"
+msgid "Select background type."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1494
+msgctxt "Admin Panel Class"
+msgid "Color"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1495
+msgctxt "Admin Panel Class"
+msgid "Transparent: "
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1499
+msgctxt "Admin Panel Class"
+msgid "Select background color."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1509
+msgctxt "Admin Panel Class"
+msgid "File URL "
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1521
+msgctxt "Admin Panel Class"
+msgid "Enter image URL for your background."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1524
+msgctxt "Admin Panel Class"
+msgid "Position"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1537
+msgctxt "Admin Panel Class"
+msgid ""
+"The first value is the horizontal position and the second value is the "
+"vertical. The top left corner is 0 0. Units can be pixels (0px 0px) or any "
+"other CSS units. If you specify only one value, the other value will be 50%. "
+"You can mix % and positions"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1541
+msgctxt "Admin Panel Class"
+msgid "Custom"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1546
+msgctxt "Admin Panel Class"
+msgid "Repeat"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1553
+msgctxt "Admin Panel Class"
+msgid ""
+"The background-repeat property sets if/how a background image will be "
+"repeated."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1557
+msgctxt "Admin Panel Class"
+msgid "Attachment"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1562
+msgctxt "Admin Panel Class"
+msgid ""
+"The background-attachment property sets whether a background image is fixed "
+"or scrolls with the rest of the page."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1601
+msgctxt "Admin Panel Class"
+msgid "Generate Iframe"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1605
+msgctxt "Admin Panel Class"
+msgid "Error: Content does not contain the iframe."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1621
+msgctxt "Admin Panel Class"
+msgid "Iframe Code"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1624
+msgctxt "Admin Panel Class"
+msgid "Paste Iframe code here.."
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1666
+msgctxt "Admin Panel Class"
+msgid "Export Data"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1680
+msgctxt "Admin Panel Class"
+msgid "Import Data"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1684
+msgctxt "Admin Panel Class"
+msgid "Import data"
+msgstr ""
+
+#: ../admin/classes/class-r-panel.php:1686
+msgctxt "Admin Panel Class"
+msgid ""
+"Click on \"Import data\" button and paste in the box above previously "
+"exported data, and press the save button."
+msgstr ""
+
+#: ../admin/panel-main.php:14 ../admin/panel-main.php:21
+msgctxt "Admin Panel"
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/panel-main.php:27
+msgctxt "Admin Panel"
+msgid "Ajax Load"
+msgstr ""
+
+#: ../admin/panel-main.php:32
+msgctxt "Admin Panel"
+msgid "Enable if you want ajax loading."
+msgstr ""
+
+#: ../admin/panel-main.php:37
+msgctxt "Admin Panel"
+msgid "Date Format"
+msgstr ""
+
+#: ../admin/panel-main.php:41
+msgctxt "Admin Panel"
+msgid ""
+"Enter your custom date. More information: http://codex.wordpress.org/"
+"Formatting_Date_and_Time"
+msgstr ""
+
+#: ../admin/panel-main.php:46
+msgctxt "Admin Panel"
+msgid "Comment Date Format"
+msgstr ""
+
+#: ../admin/panel-main.php:50
+msgctxt "Admin Panel"
+msgid ""
+"Enter your custom comment date. More information: http://codex.wordpress.org/"
+"Formatting_Date_and_Time"
+msgstr ""
+
+#: ../admin/panel-main.php:55
+msgctxt "Admin Panel"
+msgid "Event Date Format"
+msgstr ""
+
+#: ../admin/panel-main.php:59
+msgctxt "Admin Panel"
+msgid ""
+"Enter your custom event date. More information: http://codex.wordpress.org/"
+"Formatting_Date_and_Time"
+msgstr ""
+
+#: ../admin/panel-main.php:64
+msgctxt "Admin Panel"
+msgid "Retina Displays"
+msgstr ""
+
+#: ../admin/panel-main.php:69
+msgctxt "Admin Panel"
+msgid ""
+"To make this work you need to specify the width and the height of the image "
+"directly and provide the same image twice the size withe the @2x selector "
+"added at the end of the image name. For instance if you want your \"logo.png"
+"\" file to be retina compatible just include it in the markup with specified "
+"width and height ( the width and height of the original image in pixels ) "
+"and create a \"logo@2x.png\" file in the same directory that is twice the "
+"resolution."
+msgstr ""
+
+#: ../admin/panel-main.php:74
+msgctxt "Admin Panel"
+msgid "Content Animations"
+msgstr ""
+
+#: ../admin/panel-main.php:79
+msgctxt "Admin Panel"
+msgid "Enable CSS3 animation."
+msgstr ""
+
+#: ../admin/panel-main.php:84
+msgctxt "Admin Panel"
+msgid "Content Animations (Touch Devices)"
+msgstr ""
+
+#: ../admin/panel-main.php:89
+msgctxt "Admin Panel"
+msgid "Enable CSS3 animation on touch devices."
+msgstr ""
+
+#: ../admin/panel-main.php:94
+msgctxt "Admin Panel"
+msgid "Google Maps Marker"
+msgstr ""
+
+#: ../admin/panel-main.php:103 ../admin/panel-main.php:119
+#: ../admin/panel-main.php:166
+msgctxt "Admin Panel"
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/panel-main.php:104 ../admin/panel-main.php:167
+msgctxt "Admin Panel"
+msgid ""
+"Currently you don't have image, you can add one by clicking on the button "
+"below."
+msgstr ""
+
+#: ../admin/panel-main.php:105
+msgctxt "Admin Panel"
+msgid "Add Google Map Marker (48px x 56px)."
+msgstr ""
+
+#: ../admin/panel-main.php:110
+msgctxt "Admin Panel"
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../admin/panel-main.php:120
+msgctxt "Admin Panel"
+msgid ""
+"Upload a 16px x 16px .ico image for your theme, or specify the image "
+"address. http://favicon-generator.org"
+msgstr ""
+
+#: ../admin/panel-main.php:125
+msgctxt "Admin Panel"
+msgid "Slide Sidebar"
+msgstr ""
+
+#: ../admin/panel-main.php:130
+msgctxt "Admin Panel"
+msgid "Enable slide sidebar."
+msgstr ""
+
+#: ../admin/panel-main.php:142
+msgctxt "Admin Panel"
+msgid "Header"
+msgstr ""
+
+#: ../admin/panel-main.php:147
+msgctxt "Admin Panel"
+msgid "Show Header on Intro Section"
+msgstr ""
+
+#: ../admin/panel-main.php:152
+msgctxt "Admin Panel"
+msgid "Show header on intro section."
+msgstr ""
+
+#: ../admin/panel-main.php:157
+msgctxt "Admin Panel"
+msgid "Logo Image"
+msgstr ""
+
+#: ../admin/panel-main.php:168
+msgctxt "Admin Panel"
+msgid "Add a logo image to the theme header."
+msgstr ""
+
+#: ../admin/panel-main.php:180
+msgctxt "Admin Panel"
+msgid "Footer"
+msgstr ""
+
+#: ../admin/panel-main.php:186
+msgctxt "Admin Panel"
+msgid "Footer Content"
+msgstr ""
+
+#: ../admin/panel-main.php:192
+msgctxt "Admin Panel"
+msgid "Add footer content."
+msgstr ""
+
+#: ../admin/panel-main.php:197
+msgctxt "Admin Panel"
+msgid "Show Social Icons"
+msgstr ""
+
+#: ../admin/panel-main.php:202
+msgctxt "Admin Panel"
+msgid "Show or hide social icons."
+msgstr ""
+
+#: ../admin/panel-main.php:208
+msgctxt "Admin Panel"
+msgid "Select Social Icons Layout"
+msgstr ""
+
+#: ../admin/panel-main.php:212
+msgctxt "Admin Panel"
+msgid "Select social column layout"
+msgstr ""
+
+#: ../admin/panel-main.php:225
+msgctxt "Admin Panel"
+msgid "RSS"
+msgstr ""
+
+#: ../admin/panel-main.php:229
+msgctxt "Admin Panel"
+msgid "Enter \"rss\". Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:234
+msgctxt "Admin Panel"
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/panel-main.php:238
+msgctxt "Admin Panel"
+msgid "Twitter URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:243
+msgctxt "Admin Panel"
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/panel-main.php:247
+msgctxt "Admin Panel"
+msgid "Facebook URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:252
+msgctxt "Admin Panel"
+msgid "Google+"
+msgstr ""
+
+#: ../admin/panel-main.php:256
+msgctxt "Admin Panel"
+msgid "Google+ URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:261
+msgctxt "Admin Panel"
+msgid "Soundcloud"
+msgstr ""
+
+#: ../admin/panel-main.php:265
+msgctxt "Admin Panel"
+msgid "Soundcloud URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:270
+msgctxt "Admin Panel"
+msgid "Vimeo"
+msgstr ""
+
+#: ../admin/panel-main.php:274
+msgctxt "Admin Panel"
+msgid "Vimeo URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:279
+msgctxt "Admin Panel"
+msgid "Youtube"
+msgstr ""
+
+#: ../admin/panel-main.php:283
+msgctxt "Admin Panel"
+msgid "Youtube URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:288
+msgctxt "Admin Panel"
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/panel-main.php:292
+msgctxt "Admin Panel"
+msgid "YouTube URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:297
+msgctxt "Admin Panel"
+msgid "Flickr"
+msgstr ""
+
+#: ../admin/panel-main.php:301
+msgctxt "Admin Panel"
+msgid "Flickr URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:306
+msgctxt "Admin Panel"
+msgid "Delicious"
+msgstr ""
+
+#: ../admin/panel-main.php:310
+msgctxt "Admin Panel"
+msgid "Delicious URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:315
+msgctxt "Admin Panel"
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/panel-main.php:319
+msgctxt "Admin Panel"
+msgid "Pinterest URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:324
+msgctxt "Admin Panel"
+msgid "Instagram"
+msgstr ""
+
+#: ../admin/panel-main.php:328
+msgctxt "Admin Panel"
+msgid "Instagram URL (http://...). Note: Blank field hides the icon."
+msgstr ""
+
+#: ../admin/panel-main.php:347
+msgctxt "Admin Panel"
+msgid "Fonts"
+msgstr ""
+
+#: ../admin/panel-main.php:356
+msgctxt "Admin Panel"
+msgid "Google Web Fonts"
+msgstr ""
+
+#: ../admin/panel-main.php:360 ../admin/panel-main.php:369
+msgctxt "Admin Panel"
+msgid "Google Fonts"
+msgstr ""
+
+#: ../admin/panel-main.php:366
+msgctxt "Admin Panel"
+msgid ""
+"When this option is enabled, the text elements will be automatically "
+"replaced with the Google Web Fonts."
+msgstr ""
+
+#: ../admin/panel-main.php:378
+msgctxt "Admin Panel"
+msgid "Add Font"
+msgstr ""
+
+#: ../admin/panel-main.php:379
+msgctxt "Admin Panel"
+msgid "1. Go to "
+msgstr ""
+
+#: ../admin/panel-main.php:379
+msgctxt "Admin Panel"
+msgid "2. Select your font and click on \"Quick-use\""
+msgstr ""
+
+#: ../admin/panel-main.php:379
+msgctxt "Admin Panel"
+msgid "3. Choose the styles you want (bold, italic...)"
+msgstr ""
+
+#: ../admin/panel-main.php:379
+msgctxt "Admin Panel"
+msgid "4. Choose the character sets you want"
+msgstr ""
+
+#: ../admin/panel-main.php:379
+msgctxt "Admin Panel"
+msgid "5. Copy code from \"blue box\" and paste. For example:"
+msgstr ""
+
+#: ../admin/panel-main.php:382
+msgctxt "Admin Panel"
+msgid "Integrate The Fonts Into Your CSS"
+msgstr ""
+
+#: ../admin/panel-main.php:389
+msgctxt "Admin Panel"
+msgid ""
+"\n"
+"\t\t\t\t\t\t\tThe Google Web Fonts API will generate the necessary browser-"
+"specific CSS to use the fonts. All you need to do is add the font name to "
+"your CSS styles. For example:"
+msgstr ""
+
+#: ../admin/panel-main.php:409
+msgctxt "Admin Panel"
+msgid "Plugins"
+msgstr ""
+
+#: ../admin/panel-main.php:418 ../admin/panel-main.php:424
+msgctxt "Admin Panel"
+msgid "DISQUS Comments"
+msgstr ""
+
+#: ../admin/panel-main.php:429
+msgctxt "Admin Panel"
+msgid "Enable DISQUS comments. Replace default Wordpress comments."
+msgstr ""
+
+#: ../admin/panel-main.php:435
+msgctxt "Admin Panel"
+msgid "DISQUS Website's Shortname"
+msgstr ""
+
+#: ../admin/panel-main.php:439
+msgctxt "Admin Panel"
+msgid "Enter DISQUS Website's Shortname."
+msgstr ""
+
+#: ../admin/panel-main.php:453
+msgctxt "Admin Panel"
+msgid "Tracks"
+msgstr ""
+
+#: ../admin/panel-main.php:459
+msgctxt "Admin Panel"
+msgid "Music Player"
+msgstr ""
+
+#: ../admin/panel-main.php:464
+msgctxt "Admin Panel"
+msgid ""
+"Enable music player. NOTE: Spectra Plugin must be instaled and activated."
+msgstr ""
+
+#: ../admin/panel-main.php:470
+msgctxt "Admin Panel"
+msgid "Autoplay"
+msgstr ""
+
+#: ../admin/panel-main.php:475
+msgctxt "Admin Panel"
+msgid "Autoplay tracklist. NOTE: Autoplay does not work on mobile devices."
+msgstr ""
+
+#: ../admin/panel-main.php:482
+msgctxt "Admin Panel"
+msgid "Startup Tracklist"
+msgstr ""
+
+#: ../admin/panel-main.php:490
+msgctxt "Admin Panel"
+msgid "Select startup tracklist."
+msgstr ""
+
+#: ../admin/panel-main.php:497
+msgctxt "Admin Panel"
+msgid "Show Player on Startup"
+msgstr ""
+
+#: ../admin/panel-main.php:502
+msgctxt "Admin Panel"
+msgid "Show player on startup."
+msgstr ""
+
+#: ../admin/panel-main.php:509
+msgctxt "Admin Panel"
+msgid "Show Tracklist on Startup"
+msgstr ""
+
+#: ../admin/panel-main.php:514
+msgctxt "Admin Panel"
+msgid "Show playlist on startup."
+msgstr ""
+
+#: ../admin/panel-main.php:521
+msgctxt "Admin Panel"
+msgid "Random Play"
+msgstr ""
+
+#: ../admin/panel-main.php:526
+msgctxt "Admin Panel"
+msgid "Random play tracks."
+msgstr ""
+
+#: ../admin/panel-main.php:533
+msgctxt "Admin Panel"
+msgid "Loop Tracklist"
+msgstr ""
+
+#: ../admin/panel-main.php:538
+msgctxt "Admin Panel"
+msgid "Loop tracklist."
+msgstr ""
+
+#: ../admin/panel-main.php:545
+msgctxt "Admin Panel"
+msgid "Change Titlebar"
+msgstr ""
+
+#: ../admin/panel-main.php:550
+msgctxt "Admin Panel"
+msgid "Replace browser titlebar on track title."
+msgstr ""
+
+#: ../admin/panel-main.php:557
+msgctxt "Admin Panel"
+msgid "Player Skin"
+msgstr ""
+
+#: ../admin/panel-main.php:561
+msgctxt "Admin Panel"
+msgid "Select player skin."
+msgstr ""
+
+#: ../admin/panel-main.php:572
+msgctxt "Admin Panel"
+msgid "Soundcloud Client ID"
+msgstr ""
+
+#: ../admin/panel-main.php:576
+msgctxt "Admin Panel"
+msgid "Add your Soundcloud ID"
+msgstr ""
+
+#: ../admin/panel-main.php:583
+msgctxt "Admin Panel"
+msgid "Startup Volume"
+msgstr ""
+
+#: ../admin/panel-main.php:591
+msgctxt "Admin Panel"
+msgid "Set startup volume."
+msgstr ""
+
+#: ../admin/panel-main.php:598
+msgctxt "Admin Panel"
+msgid "Player Accent Color"
+msgstr ""
+
+#: ../admin/panel-main.php:603
+msgctxt "Admin Panel"
+msgid "Select accent color."
+msgstr ""
+
+#: ../admin/panel-main.php:622 ../admin/panel-main.php:628
+#: ../admin/panel-main.php:632
+msgctxt "Admin Panel"
+msgid "Sidebars"
+msgstr ""
+
+#: ../admin/panel-main.php:639
+msgctxt "Admin Panel"
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../admin/panel-main.php:640
+msgctxt "Admin Panel"
+msgid "Add your custom sidebars."
+msgstr ""
+
+#: ../admin/panel-main.php:654
+msgctxt "Admin Panel"
+msgid "Quick Edit"
+msgstr ""
+
+#: ../admin/panel-main.php:662
+msgctxt "Admin Panel"
+msgid "CSS"
+msgstr ""
+
+#: ../admin/panel-main.php:671
+msgctxt "Admin Panel"
+msgid ""
+"Add your custom CSS rules here. Every main CSS rule can be adjusted. "
+"Whenever you want to change theme style always use this field. When you do "
+"that you'll have assurance that whenever you upgrade the theme, your code "
+"will stay untouched. Avoid making changes to \"style.css\" file directly. "
+"Whenever you change something, you can always export your data using "
+"Advanced > Import/Export."
+msgstr ""
+
+#: ../admin/panel-main.php:681
+msgctxt "Admin Panel"
+msgid "Javascript"
+msgstr ""
+
+#: ../admin/panel-main.php:690
+msgctxt "Admin Panel"
+msgid ""
+"Add your custom Javascript code.  Below you have simple example of jQuery "
+"script:"
+msgstr ""
+
+#: ../admin/panel-main.php:705
+msgctxt "Admin Panel"
+msgid "Advanced"
+msgstr ""
+
+#: ../admin/panel-main.php:714
+msgctxt "Admin Panel"
+msgid "Ajax"
+msgstr ""
+
+#: ../admin/panel-main.php:719
+msgctxt "Admin Panel"
+msgid "AJAX Filter"
+msgstr ""
+
+#: ../admin/panel-main.php:725
+msgctxt "Admin Panel"
+msgid ""
+"Add selectors separated by commas. These elements will not be processed by "
+"AJAX. NOTE: Don't remove default elements."
+msgstr ""
+
+#: ../admin/panel-main.php:730
+msgctxt "Admin Panel"
+msgid "AJAX Events"
+msgstr ""
+
+#: ../admin/panel-main.php:736
+msgctxt "Admin Panel"
+msgid ""
+"Add events separated by commas. These events will be removed after page page "
+"by AJAX. NOTE: Don't remove default events."
+msgstr ""
+
+#: ../admin/panel-main.php:741
+msgctxt "Admin Panel"
+msgid "AJAX Reload Scripts"
+msgstr ""
+
+#: ../admin/panel-main.php:747
+msgctxt "Admin Panel"
+msgid ""
+"Add strings for reloaded scripts separated by commas. These scripts will be "
+"reloaded after page page by AJAX. NOTE: Don't remove default scripts."
+msgstr ""
+
+#: ../admin/panel-main.php:752
+msgctxt "Admin Panel"
+msgid "Asynchronous"
+msgstr ""
+
+#: ../admin/panel-main.php:757
+msgctxt "Admin Panel"
+msgid "Asynchronous AJAX."
+msgstr ""
+
+#: ../admin/panel-main.php:762
+msgctxt "Admin Panel"
+msgid "Ajax Cache"
+msgstr ""
+
+#: ../admin/panel-main.php:767
+msgctxt "Admin Panel"
+msgid "AJAX Cache."
+msgstr ""
+
+#: ../admin/panel-main.php:779
+msgctxt "Admin Panel"
+msgid "Import/Export"
+msgstr ""
+
+#: ../admin/panel-main.php:823
+msgctxt "Admin Panel"
+msgid "Options"
+msgstr ""
+
+#: ../archive.php:56 ../author.php:56 ../category.php:56 ../index.php:58
+#: ../page-templates/blog-grid.php:187 ../page-templates/blog.php:69
+#: ../page-templates/modular.php:41 ../tag.php:56
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../comments.php:30
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:35
+#, php-format
+msgid "1 comment on \"%2$s\""
+msgid_plural "%1$s comments on \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:57
+msgid ""
+"Currently there are no comments related to this article. You have a special "
+"honor to be the first commenter. Thanks!"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:72
+msgid "Name (required)"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Email (required)"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Website URL"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Join the discussion"
+msgstr ""
+
+#: ../comments.php:91
+msgid "Leave a Reply."
+msgstr ""
+
+#: ../comments.php:92
+msgid "(Click here to cancel reply)"
+msgstr ""
+
+#: ../comments.php:94
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:95
+msgid "* Your email address will not be published."
+msgstr ""
+
+#: ../comments.php:95
+#, php-format
+msgid "You may use these HTML tags and attributes: %s"
+msgstr ""
+
+#: ../comments.php:97
+msgid "Your Comment (required)"
+msgstr ""
+
+#: ../content-audio.php:54 ../content-gallery.php:53 ../content-image.php:51
+#: ../content-search.php:55 ../content-video.php:54 ../content.php:51
+msgid "Posted by: "
+msgstr ""
+
+#: ../content-audio.php:55 ../content-gallery.php:54 ../content-image.php:52
+#: ../content-search.php:56 ../content-video.php:55 ../content.php:52
+msgid "Categories: "
+msgstr ""
+
+#: ../content-audio.php:57 ../content-gallery.php:56 ../content-image.php:54
+#: ../content-video.php:57 ../content.php:54
+msgid "Tags: "
+msgstr ""
+
+#: ../content-audio.php:70 ../content-gallery.php:69 ../content-image.php:67
+#: ../content-video.php:70 ../content.php:67
+msgid "Edit"
+msgstr ""
+
+#: ../content-audio.php:115 ../content-audio.php:117 ../content-event.php:23
+#: ../content-gallery.php:87 ../content-gallery.php:89 ../content-image.php:84
+#: ../content-image.php:86 ../content-portfolio.php:23
+#: ../content-single.php:23 ../content-video.php:92 ../content-video.php:94
+#: ../content.php:84 ../content.php:86 ../content.php:93
+#: ../page-templates/blog-grid.php:177 ../page-templates/modular.php:38
+msgid "Continue reading "
+msgstr ""
+
+#: ../content-event.php:31 ../content-page.php:27 ../content-portfolio.php:31
+#: ../content-single.php:31 ../content.php:102
+msgid "Jump to Page"
+msgstr ""
+
+#: ../content-image.php:73 ../content-image.php:75 ../content.php:73
+#: ../content.php:75 ../page-templates/blog-grid.php:144
+msgid "Post Image"
+msgstr ""
+
+#: ../content-page.php:21
+msgid "...View the rest of this post"
+msgstr ""
+
+#: ../content-search.php:22 ../content-search.php:28
+msgid "Blog"
+msgstr ""
+
+#: ../content-search.php:33
+msgid "Event"
+msgstr ""
+
+#: ../content-search.php:38
+msgid "Portfolio"
+msgstr ""
+
+#: ../content-search.php:42 ../content-search.php:64
+msgid "Page"
+msgstr ""
+
+#: ../footer.php:65
+msgid "RSS Feed"
+msgstr ""
+
+#: ../footer.php:68
+msgid "Twitter"
+msgstr ""
+
+#: ../footer.php:71
+msgid "Facebook"
+msgstr ""
+
+#: ../footer.php:74
+msgid "Google Plus"
+msgstr ""
+
+#: ../footer.php:77
+msgid "Soundcloud"
+msgstr ""
+
+#: ../footer.php:81
+msgid "Vimeo"
+msgstr ""
+
+#: ../footer.php:84
+msgid "Youtube"
+msgstr ""
+
+#: ../footer.php:87
+msgid "Dribbble"
+msgstr ""
+
+#: ../footer.php:90
+msgid "Flickr"
+msgstr ""
+
+#: ../footer.php:94
+msgid "Delicious"
+msgstr ""
+
+#: ../footer.php:97
+msgid "Pinterest"
+msgstr ""
+
+#: ../footer.php:100
+msgid "Instagram"
+msgstr ""
+
+#: ../footer.php:127 ../header.php:130
+msgid "CLOSE"
+msgstr ""
+
+#: ../functions.php:91
+msgid "Top primary menu"
+msgstr ""
+
+#: ../functions.php:367 ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:368 ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:369 ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:370
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:371 ../inc/class-tgm-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:372 ../inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:373 ../inc/class-tgm-plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:374 ../inc/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:375 ../inc/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:376 ../inc/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:377 ../inc/class-tgm-plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:378 ../inc/class-tgm-plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:379 ../inc/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:380
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:381 ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:382 ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1939
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:400
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:402
+msgid "Main sidebar that appears on the left or right."
+msgstr ""
+
+#: ../functions.php:410
+msgid "Category Sidebar"
+msgstr ""
+
+#: ../functions.php:412
+msgid ""
+"Category sidebar that appears on the left or right on category, archives, "
+"tag pages."
+msgstr ""
+
+#: ../functions.php:421
+msgid "Slide Sidebar"
+msgstr ""
+
+#: ../functions.php:423
+msgid "Slide sidebar that appear on the right after click on menu icon button."
+msgstr ""
+
+#: ../functions.php:440
+msgid "Custom sidebar created in admin options."
+msgstr ""
+
+#: ../header.php:83
+msgid "Logo Image"
+msgstr ""
+
+#: ../header.php:116
+msgid ""
+"The main menu has not selected location or does not exist. Go to Wordpress > "
+"Appearance > Menus and set your menu."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:178
+#: ../inc/class-tgm-plugin-activation.php:1630
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:531
+#: ../inc/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1287
+#: ../inc/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1309
+#: ../inc/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#: ../inc/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#: ../inc/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/custom-intro.php:122 ../inc/custom-intro.php:179
+msgid "Scroll"
+msgstr ""
+
+#: ../inc/custom-intro.php:301
+msgid "Slider error: Slider has no pictures or doesn't exists."
+msgstr ""
+
+#: ../inc/customizer.php:22
+msgid "Theme Colors"
+msgstr ""
+
+#: ../inc/customizer.php:23
+msgid ""
+"Change default theme colors. Please SAVE and REFRESH your browser to see the "
+"new styles."
+msgstr ""
+
+#: ../inc/disqus.php:56
+msgid "Please enable JavaScript to view the"
+msgstr ""
+
+#: ../inc/disqus.php:56
+msgid "comments powered by Disqus."
+msgstr ""
+
+#: ../inc/disqus.php:57
+msgid "Comments powered by"
+msgstr ""
+
+#: ../inc/helpers.php:40
+msgid "Reply"
+msgstr ""
+
+#: ../inc/helpers.php:45
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/helpers.php:103
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/tag-intro.php:21
+msgid "Results for category:"
+msgstr ""
+
+#: ../inc/tag-intro.php:26
+msgid "Results for author:"
+msgstr ""
+
+#: ../inc/tag-intro.php:31
+msgid "Results for tag:"
+msgstr ""
+
+#: ../inc/tag-intro.php:36
+msgid "Results for portfolio category:"
+msgstr ""
+
+#: ../inc/tag-intro.php:41
+msgid "Results for event category:"
+msgstr ""
+
+#: ../inc/tag-intro.php:46
+msgid "Archives results for:"
+msgstr ""
+
+#: ../inc/tag-intro.php:59
+msgid "Search results for:"
+msgstr ""
+
+#: ../inc/template-tags.php:48 ../inc/template-tags.php:65
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../inc/template-tags.php:49 ../inc/template-tags.php:66
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:92 ../inc/template-tags.php:104
+#: ../inc/template-tags.php:110 ../inc/template-tags.php:140
+msgid "Next Post"
+msgstr ""
+
+#: ../inc/template-tags.php:92 ../inc/template-tags.php:93
+#: ../inc/template-tags.php:100 ../inc/template-tags.php:104
+#: ../inc/template-tags.php:106 ../inc/template-tags.php:109
+#: ../inc/template-tags.php:110
+msgid "%title"
+msgstr ""
+
+#: ../inc/template-tags.php:93 ../inc/template-tags.php:106
+#: ../inc/template-tags.php:109
+msgid "Previous Post"
+msgstr ""
+
+#: ../inc/template-tags.php:100
+msgid "Published In"
+msgstr ""
+
+#: ../inc/template-tags.php:141
+msgid "Pevious Post"
+msgstr ""
+
+#: ../inc/template-tags.php:156
+msgid "Next Release"
+msgstr ""
+
+#: ../inc/template-tags.php:157
+msgid "Pevious Release"
+msgstr ""
+
+#: ../inc/template-tags.php:184
+msgid "Next Event"
+msgstr ""
+
+#: ../inc/template-tags.php:185
+msgid "Pevious Event"
+msgstr ""
+
+#: ../page-templates/blog-grid.php:164 ../page-templates/blog-grid.php:166
+msgid "Comments"
+msgstr ""
+
+#: ../page-templates/blog-grid.php:166
+msgid "No comment"
+msgstr ""
+
+#: ../page-templates/blog-grid.php:166
+msgid "Comment"
+msgstr ""
+
+#: ../page-templates/blog-grid.php:175
+msgid "Read more"
+msgstr ""
+
+#: ../page-templates/events-all.php:149
+#: ../taxonomy-spectra_event_categories.php:170
+msgid "Future events"
+msgstr ""
+
+#: ../page-templates/events-all.php:157 ../page-templates/events-all.php:163
+#: ../taxonomy-spectra_event_categories.php:178
+#: ../taxonomy-spectra_event_categories.php:184
+msgid "Past events"
+msgstr ""
+
+#: ../page-templates/events.php:160
+msgid "More events"
+msgstr ""
+
+#: ../page-templates/portfolio.php:46
+msgid "Filter"
+msgstr ""
+
+#: ../page-templates/portfolio.php:47
+msgid "All"
+msgstr ""
+
+#: ../page-templates/portfolio.php:253
+#: ../taxonomy-spectra_portfolio_cats.php:71
+msgid "Porfolio thumbnail"
+msgstr ""
+
+#: ../page-templates/portfolio.php:261
+msgid "NEW"
+msgstr ""
+
+#: ../page-templates/portfolio.php:265
+msgid "FREE"
+msgstr ""
+
+#: ../search.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search and hit enter..."
+msgstr ""
