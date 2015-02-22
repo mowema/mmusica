@@ -1078,12 +1078,12 @@ function spectra_event_countdown( $atts, $content = null ) {
     $event_time = strtotime( get_post_meta( $event_id, '_event_time_start', true ) );
 
     // Date format
-    $date_format = 'd/m/Y';
+    
     if ( isset( $panel_options ) && isset( $panel_options[ 'custom_date' ] ) ) {
         $date_format = $panel_options[ 'custom_date' ];
     } else {
         $date_format = get_option('date_format');
-    }
+    }$date_format = 'd/m/Y';
 
     // Location
     $event_location = get_post_meta( $event_id, '_event_address', true );
